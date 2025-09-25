@@ -1,0 +1,11 @@
+.venv
+/.venv
+
+AI.txt
+/AI.txt
+
+__pycache__/
+/__pycache__/
+
+.env
+/.env
